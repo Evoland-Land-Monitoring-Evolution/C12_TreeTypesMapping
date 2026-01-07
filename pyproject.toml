@@ -5,6 +5,8 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
+    "geopandas>=1.1.2",
+    "jupyterlab>=4.5.1",
     "openpyxl>=3.1.5",
     "pandas>=2.3.3",
     "pygbif>=0.6.6",
